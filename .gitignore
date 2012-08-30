@@ -1,0 +1,8 @@
+pelican/bin
+pelican/build
+pelican/include
+pelican/lib
+pelican/src
+
+*.pyc
+*.swp
