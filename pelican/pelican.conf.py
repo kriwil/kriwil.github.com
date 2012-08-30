@@ -2,7 +2,7 @@
 AUTHOR = u'aldi'
 SITENAME = u"kriwil.com"
 SITEURL = 'http://www.kriwil.com'
-TIMEZONE = "Asia/Kuala_Lumpur"
+TIMEZONE = "Asia/Jakarta"
 
 ARTICLE_URL = '{category}/{slug}/'
 ARTICLE_SAVE_AS = '{category}/{slug}/index.html'

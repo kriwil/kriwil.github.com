@@ -1,2 +1,10 @@
--e git+https://github.com/kriwil/pelican.git@424cfe1b1ed5e7d841d160d019b99b3162badb11#egg=pelican-dev
+Jinja2==2.6
 Markdown==2.1.1
+Pygments==1.5
+Unidecode==0.04.9
+blinker==1.2
+docutils==0.9.1
+feedgenerator==1.2.1
+pelican==3.0
+pytz==2012d
+wsgiref==0.1.2
