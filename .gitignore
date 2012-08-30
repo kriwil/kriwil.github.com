@@ -1,5 +1,6 @@
 pelican/bin
 pelican/build
+pelican/env
 pelican/include
 pelican/lib
 pelican/src

@@ -1,1 +1,2 @@
 -e git+https://github.com/kriwil/pelican.git@424cfe1b1ed5e7d841d160d019b99b3162badb11#egg=pelican-dev
+Markdown==2.1.1
