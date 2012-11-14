@@ -1,1 +1,1 @@
-rm -rf output/* && pelican -s pelican.conf.py -o ../ source
+pelican -s pelican.conf.py -o ../ source
